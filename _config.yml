@@ -10,7 +10,7 @@ locale: "en-US"
 title: "Jessica Shi"
 title_separator: "-"
 name: &name "Jessica Shi"
-description: &description "hello"
+description: &description "Senior studying Operations Research at Columbia University"
 url: https://js06283.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "js06283/js06283.github.io"
@@ -79,13 +79,13 @@ analytics:
 # Site Author
 author:
   name: "Jessica Shi"
-  avatar: "profile.png"
-  bio: "Your biography for the left-hand sidebar"
-  location: "Location"
+  avatar: "profile.jpg"
+  bio: "Senior studying Operations Research at Columbia University"
+  location: "New York, NY"
   employer:
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: "http://yourfullgooglescholarurl.com"
-  email:
+  pubmed: 
+  googlescholar: #"http://yourfullgooglescholarurl.com"
+  email: "js06283@columbia.edu"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
@@ -94,20 +94,20 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "academicpages"
+  github: "js06283"
   google_plus:
   keybase:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin:
-  orcid: "http://orcid.org/yourorcidurl"
+  linkedin: "https://www.linkedin.com/in/jessicashi605/"
+  orcid: #"http://orcid.org/yourorcidurl"
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter: "replacethistwitterhandle"
+  twitter: #"replacethistwitterhandle"
   vine:
   weibo:
   xing:
