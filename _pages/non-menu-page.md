@@ -8,4 +8,4 @@ redirect_from:
   - "/nmp.html"
 ---
 
-<meta http-equiv="Refresh" content="0; url='https://www.w3docs.com'" />
+<meta http-equiv="Refresh" content="0; url='https://js06283.github.io/'" />
