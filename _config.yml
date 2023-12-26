@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Jessica Shi"
+title: "<img src='/images/site-logo.png' style='width:100px;height:auto'>" 
 title_separator: "-"
 name: &name "Jessica Shi"
 description: &description "Senior studying Operations Research at Columbia University"
@@ -17,7 +17,7 @@ repository: "js06283/js06283.github.io"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
-future: true
+future: false
 read_more: "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link: false #change to true to add link to talkmap on talks page
 comments:
@@ -80,7 +80,7 @@ analytics:
 author:
   name: "Jessica Shi"
   avatar: "profile.jpg"
-  bio: "Senior studying Operations Research at Columbia University"
+  bio: "Operations Research at Columbia University"
   location: "New York, NY"
   employer:
   pubmed: 
@@ -97,7 +97,7 @@ author:
   github: "js06283"
   google_plus:
   keybase:
-  instagram:
+  instagram: 
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
   linkedin: "https://www.linkedin.com/in/jessicashi605/"
@@ -150,22 +150,26 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
-markdown: kramdown
+markdown: CommonMarkGhPages
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+commonmark:
+  options: ["UNSAFE", "SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+
 # Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+# kramdown:
+#   input: GFM
+#   hard_wrap: false
+#   auto_ids: true
+#   footnote_nr: 1
+#   entity_output: as_char
+#   toc_levels: 1..6
+#   smart_quotes: lsquo,rsquo,ldquo,rdquo
+#   enable_coderay: false
 
 # Collections
 collections:

@@ -28,6 +28,7 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-redirect-from"
   gem "kramdown-parser-gfm"
+  gem 'jekyll-commonmark-ghpages'
 end
 
 gem "webrick", "~> 1.8"
