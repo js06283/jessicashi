@@ -5,8 +5,8 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
   - /jessica-shi/
+  - /about.html
 ---
 
 I'm currently in my fourth year at Columbia University studying Operations Research, minoring in Economics and Computer Science. I'm interested in service modeling, logistics, and data engineering, hoping to investigate new ways to power decision-making systems in hospitals and civic applications. Since January 2023, I have worked under Professor Carri Chan and Professor Vineet Goyal from Columbia Business School and IEOR on proactive patient treatment for sepsis. I've also worked with Professor Venkat Venkatasubramanian from Columbia Chemical Engineering to study the dynamics of the Schelling game of segregation. 
