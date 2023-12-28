@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /jessica-shi/
 title: "Hi I'm Jessica! 👋"
 excerpt: "About me"
 author_profile: true
