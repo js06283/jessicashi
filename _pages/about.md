@@ -13,7 +13,7 @@ I'm currently in my fourth year at Columbia University studying Operations Resea
 
 <b>What do I do?</b>
 
-Since January 2023, I have worked under Professor Carri Chan and Professor Vineet Goyal from Columbia Business School and IEOR on proactive patient treatment for sepsis. I've also worked with Professor Venkat Venkatasubramanian from Columbia Chemical Engineering to study the dynamics of the Schelling game of segregation. 
+Since January 2023, I have worked under Professor Carri Chan and Professor Vineet Goyal from Columbia Business School and IEOR on proactive patient treatment for sepsis. I've also collaborated with Professor Venkat Venkatasubramanian from Columbia Chemical Engineering to study the dynamics of the Schelling game of segregation. 
 
 I've previously worked in software engineering at the US Census Bureau, Microsoft Maps, and Asana, primarily in full-stack and frontend web development. I love to build and think about new ideas for how we can use technology to improve the way we live and make decisions. 
 
@@ -26,7 +26,5 @@ I'm dedicated to promoting equitable access to opportunities and resources for m
   <li> Tennis 🎾
   <li> Biking 🚲
   <li> <a href="/travel/"> Travel & Hiking 🌎</a>
-  <li> Photography & Art 📷
+  <li> <a href="https://www.instagram.com/jesshicamera/?hl=en">Photography & Art 📷</a>
 </ul>
-
-

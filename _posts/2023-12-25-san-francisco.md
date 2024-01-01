@@ -101,21 +101,30 @@ Kings Canyon & Sequoia National Park 🌳
 ====
 Visited these parks over a weekend with my family. We stopped by Napa Valley first and did a wine tasting at the [St. Francis Winery](https://www.stfranciswinery.com/). I would definitely recommend booking ahead, but we were able to book this particular winery day of. Though not one of the most popular or economical, this was such a lovely experience, as each wine also came with a food pairing! Sharing the space with only a few other guests also made the experience a bit more enhancing. 
 
-Then we headed straight down to Sequoia National Park to spend the night at a lodge. 
+We headed straight down to Sequoia National Park to spend the night at the [John Muir Lodge](https://www.visitsequoia.com/lodging/john-muir-lodge). Very convenient accommodations/food here. 
 
 <b>🥾 [Moro Rock](https://www.alltrails.com/trail/us/california/moro-rock--3)</b>
+A very popular site for some expansive mountaintop views, cool trail up to the top carved through the rock. 
 
+<img src='/images/sf/moro.jpeg' style="width:600px;height:auto"/>
 
 <b>🥾 [Congress Trail](https://www.alltrails.com/trail/us/california/congress-trail)</b>, <i> 2.1 mi, 308ft, 1h5m </i>
 
-Big paved trail, lots of people here to see the General Sherman Tree. 
+Big paved trail, lots of people here to see the General Sherman Tree. There's also a loop that goes around more trees, but we skipped it to make it to the next trail. 
 
 <b>🥾 [Tokopah Falls](https://www.alltrails.com/trail/us/california/tokopah-falls)</b>, <i>3.9 mi, 600 ft, 2h 3m</i>
 
+This hike was awesome, kind of a mini Yosemite valley 
+
+<img src='/images/sf/falls.jpeg' style="width:600px;height:auto"/>
+<img src='/images/sf/waterfall.jpeg' style="width:600px;height:auto"/>
+
 <b>🥾 [General Grant Trail](https://www.alltrails.com/trail/us/california/general-grant-trail),</b> <i>1.3 mi, 115ft, 44m</i>
 
-
+<img src='/images/sf/sherman.jpeg' style="width:600px;height:auto"
 
 <b>🥾 [Big Stump Loop](https://www.alltrails.com/trail/us/california/big-stump-loop--4),</b> <i>1.7mi, 223ft, 57m</i>
 
-This was probably my second favorite! Lots of big stumps. 
+<img src='/images/sf/stump.jpeg' style="width:600px;height:auto"/>
+
+This was probably my second favorite hike! Lots of big stumps. Pretty quiet trail.
