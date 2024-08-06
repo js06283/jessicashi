@@ -80,12 +80,12 @@ analytics:
 author:
   name: "Jessica Shi"
   avatar: "profile.jpg"
-  bio: "Operations Research at Columbia University"
+  bio: "Operations Management at NYU Stern"
   location: "New York, NY"
   employer:
   pubmed: 
-  googlescholar: #"http://yourfullgooglescholarurl.com"
-  email: "js06283@columbia.edu"
+  googlescholar: "https://scholar.google.com/citations?user=v-wdIBgAAAAJ&hl=en"
+  email: "jjs9997@stern.nyu.edu"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
