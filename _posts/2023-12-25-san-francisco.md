@@ -106,7 +106,7 @@ We headed straight down to Sequoia National Park to spend the night at the [John
 <b>🥾 [Moro Rock](https://www.alltrails.com/trail/us/california/moro-rock--3)</b>
 A very popular site for some expansive mountaintop views, cool trail up to the top carved through the rock. 
 
-<img src='/images/sf/moro.jpeg' style="width:600px;height:auto"/>
+<img src='/images/sf/moro.jpeg' style="width:300px;height:auto"/>
 
 <b>🥾 [Congress Trail](https://www.alltrails.com/trail/us/california/congress-trail)</b>, <i> 2.1 mi, 308ft, 1h5m </i>
 
@@ -114,17 +114,23 @@ Big paved trail, lots of people here to see the General Sherman Tree. There's al
 
 <b>🥾 [Tokopah Falls](https://www.alltrails.com/trail/us/california/tokopah-falls)</b>, <i>3.9 mi, 600 ft, 2h 3m</i>
 
-This hike was awesome, kind of a mini Yosemite valley 
+This hike was awesome, kind of like a mini Yosemite valley and the trail follows the stream up to a sizeable waterfall! 
 
-<img src='/images/sf/falls.jpeg' style="width:600px;height:auto"/>
-<img src='/images/sf/waterfall.jpeg' style="width:600px;height:auto"/>
+<img src='/images/sf/waterfall.jpeg' style="width:300px;height:auto"/>
 
 <b>🥾 [General Grant Trail](https://www.alltrails.com/trail/us/california/general-grant-trail),</b> <i>1.3 mi, 115ft, 44m</i>
 
-<img src='/images/sf/sherman.jpeg' style="width:600px;height:auto"
+On Day 2, we hit this trail bright and early, small loop trail, there's a tree you can go inside. 
+
+<img src='/images/sf/sherman.jpeg' style="width:300px;height:auto"/>
 
 <b>🥾 [Big Stump Loop](https://www.alltrails.com/trail/us/california/big-stump-loop--4),</b> <i>1.7mi, 223ft, 57m</i>
 
+This was probably my second favorite hike! Lots of big stumps. Pretty quiet trail near the entrance of the park. 
+
 <img src='/images/sf/stump.jpeg' style="width:600px;height:auto"/>
 
-This was probably my second favorite hike! Lots of big stumps. Pretty quiet trail.
+A lot of Kings Canyon was closed during our trip from snow, so we didn't make it too far up the road. 
+
+<b>General</b>
+Tahoe and Yosemite lived up to the hype and were still worth braving the summer crowds! If staying in the city, Zipcar and Gigcar were very convenient for weekend trips. 
