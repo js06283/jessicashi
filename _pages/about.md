@@ -9,11 +9,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a first-year PhD Student at New York University Stern School of Business studying Operations Management. In Spring 2024, I graduated from Columbia University, majoring in Operations Research and minoring in Economics and Computer Science. I'm interested in service modeling, logistics, and data engineering, hoping to investigate new ways to power decision-making systems in hospitals and civic applications. My most recent research focused on the modeling patient dynamics with simulation and predictive analytics for sepsis treatment. 
+I'm currently a <b>first-year Operations Management PhD Student at New York University Stern School of Business</b>. In Spring 2024, I graduated from Columbia University, majoring in Operations Research and minoring in Economics and Computer Science. I am currently working under Professor Divya Singhvi on problems related to <b>human-AI collaboration with LLMs</b>. 
 
 <b>What do I do? 🤷🏻‍♀️</b>
 
-Since January 2023, I have worked under Professor Carri Chan and Professor Vineet Goyal from Columbia Business School and IEOR on proactive patient treatment for sepsis. I've also collaborated with Professor Venkat Venkatasubramanian from Columbia Chemical Engineering to study the dynamics of the Schelling game of segregation. 
+I'm interested in service modeling, logistics, and data engineering, hoping to investigate new ways to power decision-making systems in hospitals and civic applications. My most recent research focused on the modeling patient dynamics with simulation and predictive analytics for sepsis treatment. I have worked under Professor Carri Chan and Professor Vineet Goyal from Columbia Business School and IEOR on proactive patient treatment for sepsis. I've also collaborated with Professor Venkat Venkatasubramanian from Columbia Chemical Engineering to study the dynamics of the Schelling game of segregation. 
 
 I've previously worked in software engineering at the US Census Bureau, Microsoft Maps, and Asana, primarily in full-stack and frontend web development. I love to build and think about new ideas for how we can use technology to improve the way we live and make decisions. 
 
@@ -23,12 +23,12 @@ I'm dedicated to promoting equitable access to opportunities and resources for m
 
 <b>Awards 🏆</b>
 <ul>
-  <li> The Stephen D. Guarino Memorial Award in Industrial Engineering and Operations Research, Columbia University, 2024
-  <li> Senior Marshal, Columbia University, 2024
-  <li> Second Place at Startup Columbia Technology Track, 2024
-  <li> Amazon SCOT INFORMS Scholarship Recepient, 2023
-  <li> Tau Beta Pi Junior Inductee, 2023 
-  <li> Generation Google Scholarship for Supply Chain and Fulfillment, 2022
+  <li> The Stephen D. Guarino Memorial Award in Industrial Engineering and Operations Research, <i>Columbia University, 2024</i>
+  <li> Senior Marshal, <i>Columbia University, 2024</i>
+  <li> Second Place at Startup Columbia Technology Track, <i>2024</i>
+  <li> Amazon SCOT INFORMS Scholarship Recipient, <i>2023</i>
+  <li> Tau Beta Pi Junior Inductee, <i>2023</i>
+  <li> Generation Google Scholarship for Supply Chain and Fulfillment, <i>2022</i>
 </ul>
 
 <b>For fun 🥳</b>
